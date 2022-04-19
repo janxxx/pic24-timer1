@@ -7,4 +7,4 @@ I wrote this program to better understand timer1 topic in dsPIC33/PIC24 microcon
 
 Program blinks led connected to RB6 pin with following sequence: 0.5s ON --> 0.5s OFF
 ### Known issues
-- Missing gitignore file
+- Unfinished gitignore file
